@@ -1,0 +1,28 @@
+.navbar-brand img{
+    width: 50px;
+}
+.navbar{
+    background-color: #e3f2fd;
+}
+/* breadcum css start */
+.bread-item{
+    background-color: #e9ecef !important;
+}
+/* banner css start */
+.carousel-item img{
+    height: 550px;
+}
+.accordion-item h5{
+    color: #1d8afe;
+}
+.card-header a:hover{
+    text-decoration: underline !important;
+}
+footer{
+    color: #fff;
+    background-color: #17a2b8 !important;
+    padding: 30px 0;
+}
+footer p{
+    margin-bottom: 0;
+}
